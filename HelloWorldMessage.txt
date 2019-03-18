@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-welcome to hcl
-=======
-Hello World Message!!!!!
->>>>>>> refs/remotes/origin/master
+
+Zahid Hello World Message!!!!!
