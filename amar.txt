@@ -1,1 +1,2 @@
-learning Git process
+1- learning Git process.
+2- Learning Git Squash & Merge.
